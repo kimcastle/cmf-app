@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "thinkcmf/cmf": "~5.1.0"
+        "kimcastle/cmf": "dev-master"
     },
     "autoload": {
         "psr-4": {
