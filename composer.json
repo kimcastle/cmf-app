@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "kimcastle/cmf": "dev-master"
+        "kimcastle/cmf": "1.0.1"
     },
     "autoload": {
         "psr-4": {
